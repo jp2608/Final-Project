@@ -9,7 +9,7 @@ public class SportsDemo
 		Football eagles = new Football();
 		Football redskins = new Football();
 		
-		System.out.println("-Tennis Players;\n ");
+		System.out.println("-Tennis Players\n ");
 		RogerFederer.setName("Roger Federer");
 		RogerFederer.setWins(1012);
 		RogerFederer.writeOutput();
@@ -18,7 +18,7 @@ public class SportsDemo
 		lakers.setWins(623);
 		lakers.writeOutput();
 		
-		System.out.println("\n-Football Teams;\n ");
+		System.out.println("\n-Football Teams\n ");
 		eagles.setName("Eagles");
 		eagles.setWins(550);
 		eagles.writeOutput();
